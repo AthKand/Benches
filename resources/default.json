@@ -1,0 +1,18 @@
+{
+    "algo": "PPO",
+    "env_id": "DM_CART",
+    "policy": "MlpPolicy",
+    "save_videos": false,
+    "cam_control": null,
+    "camera_settings": {
+        "camera_id": 0,
+        "azimuth": null,
+        "elevation": null,
+        "distance": null,
+        "mode": "rgb_array"
+    },
+    "custom_env": null,
+    "custom_algo": null,
+    "experiment_name": "benchmarks",
+    "total_timesteps": 1000000
+}
